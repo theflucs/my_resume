@@ -1,9 +1,19 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+# Markup
+- skill: HTML, CSS
+  description: Ability to build static web pages using the latest technologies.
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Programming
+- skill: JavaScript, Vue, React
+  description: Heavy use of JS and its latest frameworks to add interactivity to web pages or making Web Progressive Apps.
+
+- skill: Python, Django
+  description: Ability to build robust backend of websites and applications, making use of Restful API.
+
+- skill: Versioning Control
+  description: clear understanding of how Git works, ability to work on a same big project with other developers, handling pull requests, conflicts and deployment phase.
+
+- skill: Communication
+  description: Friendly communicator able to actively listen and share ideas with confidence and respect. Have empathy for other people's feelings and emotions. Able to clearly communicate in a professional manner with clients and collegues of all levels.
+  
