@@ -9,7 +9,7 @@
   description: Heavy use of JS and its latest frameworks to add interactivity to web pages or making Web Progressive Apps.
 
 - skill: Python, Django
-  description: Learning how to build robust backend of websites and applications, making use of Restful API.
+  description: Learning how to build robust backend of websites and applications, making use of RESTful APIs.
 
 - skill: Versioning Control
   description: Clear understanding of how Git works, ability to work on a same big project with other developers, handling pull requests, conflicts and deployment phase.
