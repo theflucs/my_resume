@@ -6,11 +6,11 @@
   role: Student
   duration: 2021 &mdash; Present
   url: "https://lab.github.com/"
-  description: Master every operation and phase of Git Versioning Control
+  description: Learning how to master every operation and phase of Git Versioning Control
 
 # General Assembly
-- project: General Assembly
+- project: Free Code Camp
   role: Student
   duration: 2015 &mdash; 2016
   url: "https://generalassemb.ly/"
-  description: Frontend developer path.
+  description: Fullstack developer path.
