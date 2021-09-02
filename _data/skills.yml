@@ -2,18 +2,18 @@
 
 # Markup
 - skill: HTML, CSS
-  description: Ability to build static web pages using the latest technologies.
+  description: Ability to build static web pages, with and without the help of frameworks like Bootstrap.
 
 # Programming
 - skill: JavaScript, Vue, React
   description: Heavy use of JS and its latest frameworks to add interactivity to web pages or making Web Progressive Apps.
 
 - skill: Python, Django
-  description: Ability to build robust backend of websites and applications, making use of Restful API.
+  description: Learning how to build robust backend of websites and applications, making use of Restful API.
 
 - skill: Versioning Control
   description: Clear understanding of how Git works, ability to work on a same big project with other developers, handling pull requests, conflicts and deployment phase.
 
 - skill: Communication
-  description: Friendly communicator able to actively listen and share ideas with confidence and respect. Have empathy for other people's feelings and emotions. Able to clearly communicate in a professional manner with clients and collegues of all levels.
+  description: Friendly communicator able to actively listen and share ideas with confidence and respect. Able to clearly communicate in a professional manner with clients and collegues of all levels. Have empathy for other people's feelings and emotions.
   

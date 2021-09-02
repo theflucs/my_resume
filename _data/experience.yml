@@ -11,14 +11,15 @@
   duration: July, 2019 &mdash; Present
   summary: Web developer for greener infomobility systems.
 
-# Job Title
-- company: DAMG | Discovering Art Music Group
-  position: Web Designer
-  duration: May, 2015 &mdash; September, 2016
-  summary: Website development using Wordpress platform.
- 
  # Job Title
 - company: Nuova Scuola Internazionale
   position: ICT Teacher
   duration: October, 2018 &mdash; March, 2019
-  summary: ECDL and web editing courses teacher.
+  summary: ECDL and web editing course teacher.
+
+# Job Title
+- company: DAMG | Discovering Art Music Group
+  position: Web Designer
+  duration: May, 2015 &mdash; September, 2016
+  summary: Website developer using the Wordpress platform.
+
