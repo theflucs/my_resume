@@ -1,12 +1,12 @@
 # Jobs
 # Surftocat
 - company: Self Employed
-  position: Surftocat
+  position: Flucser
   duration: Life
   summary: I only live to get radical.
 
 # Job Title
-- company: Frontend Developer
+- company: GreenShare
   position: Web Developer
   duration: July, 2019 &mdash; Present
   summary: Web developer for greener infomobility systems.
@@ -16,3 +16,9 @@
   position: Web Designer
   duration: May, 2015 &mdash; September, 2016
   summary: Website development using Wordpress platform.
+ 
+ # Job Title
+- company: Nuova Scuola Internazionale
+  position: ICT Teacher
+  duration: October, 2018 &mdash; March, 2019
+  summary: ECDL and web editing courses teacher.
