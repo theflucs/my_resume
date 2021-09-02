@@ -1,8 +1,26 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Hub/Spoke
+  role: Contributor
+  year: 2019
+  url: https://www.facebook.com/events/2116414781800037/
+  summary: Hackathon for women standing up against stereotypes. Built an app regarding this issue in 3 days.
+
 - organization: Refugee Radio
   role: Volunteer
   year: 2014 &mdash; 2017
   url: http://connecthome.atlantaga.gov/
-  summary: Supported refugees, asylum seekers and vulnerable migrants.
+  summary: Supporting refugees, asylum seekers and vulnerable migrants.
+
+- organization: Oxfam, London
+  role: Volunteer
+  year: 2012
+  url: https://www.oxfam.org.uk/
+  summary: Working in a bookshops whose proceeds were donated for ending poverty.
+
+- organization: Eurasia, Geopolitical Magazine
+  role: Volunteer
+  year: 2009 &mdash; 2010
+  url: https://www.eurasia-rivista.com/
+  summary: Writing and translating articles about South-East Asia geopolitical situation.

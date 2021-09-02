@@ -9,8 +9,8 @@
   description: Master every operation and phase of Git Versioning Control
 
 # General Assembly
-- project: General Assembly
+- project: FreeCodeCamp
   role: Student
-  duration: 2015 &mdash; 2016
-  url: "https://generalassemb.ly/"
-  description: Frontend developer path.
+  duration: 2015 &mdash; Present
+  url: "https://www.freecodecamp.org"
+  description: Fullstack developer path.

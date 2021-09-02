@@ -1,6 +1,20 @@
-# Degree
-- degree: Full Stack Web Developer Course
-  uni: UniCA
-  year: September, 2018 &mdash; July, 2021
-  # awards:
-  summary: HTML, CSS, JS, Python, Vuejs, React, Swift, Android
+# Course
+- degree: Mobile App Developer
+  uni: Evolvere
+  year: October, 2018 &mdash; December, 2019
+  summary: Object Oriented Programming, Java, Android, Swift, Software Development 
+
+- degree: Backend Development
+  uni: Abacons
+  year: May, 2018 &mdash; July, 2018
+  summary: Data manipulation, Testing, PHP
+
+- degree: Frontend Development
+  uni: General Assembly
+  year: February, 2015 &mdash; April, 2015
+  summary: HTML, CSS, Javascript
+
+- degree: Political science and international relations
+  uni: Sapienza, Rome
+  year: 2005 &mdash; 2009
+  summary: International political science
