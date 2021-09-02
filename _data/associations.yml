@@ -1,7 +1,7 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Hub Spoke Hackathon
+- organization: Hub/Spoke
   role: Contributor
   year: 2019
   url: https://www.facebook.com/events/2116414781800037/
@@ -21,6 +21,6 @@
 
 - organization: Eurasia, Geopolitical Magazine
   role: Volunteer
-  year: 2014 &mdash; 201
+  year: 2009 &mdash; 2010
   url: https://www.eurasia-rivista.com/
-  summary: Writing and translating articoles about South-East Asia geopolitical situation.
+  summary: Writing and translating articles about South-East Asia geopolitical situation.

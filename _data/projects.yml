@@ -8,9 +8,9 @@
   url: "https://lab.github.com/"
   description: Learning how to master every operation and phase of Git Versioning Control
 
-# General Assembly
-- project: Free Code Camp
+# FreeCodeCamp
+- project: FreeCodeCamp
   role: Student
-  duration: 2015 &mdash; 2016
-  url: "https://generalassemb.ly/"
+  duration: 2015 &mdash; Present
+  url: "https://www.freecodecamp.org"
   description: Fullstack developer path.
