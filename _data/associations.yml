@@ -1,6 +1,12 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Margarita Humanitarian Foundation
+  role: Open Source Contributor
+  year: 2019
+  url: https://helpafamily.margaritahumanitarian.org/
+  summary: Contribute to develop the source code of the association web site.
+
 - organization: Hub/Spoke
   role: Contributor
   year: 2019
