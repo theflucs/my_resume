@@ -80,7 +80,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
+  border-top: 2px solid #fba194;
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
@@ -97,7 +97,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #333;
+      fill: #699490;
       @include transition(all .2s ease);
     }
   }
@@ -118,7 +118,7 @@
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #333;
+    background-color: #699490;
     color: #fff;
   }
 
@@ -161,7 +161,7 @@
 
       &:hover {
         border-bottom: none;
-        color: #9c9c9c;
+        color: #a2bdbb;
       }
     }
   }
@@ -172,7 +172,7 @@
 // footer styles
 
 .page-footer {
-  border-top: 4px solid #c7c7c7;
+  border-top: 4px solid #fba194;
   padding-top: 1.5rem;
   text-align: center;
   margin-bottom: 3rem;
