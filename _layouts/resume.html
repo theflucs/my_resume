@@ -150,7 +150,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Activities and workshops</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -170,7 +170,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>Interests</h2>
         </header>
 
         <div class="resume-item">
@@ -183,6 +183,26 @@
 
       </section>
       <!-- end Interests -->
+      {% endif %}
+
+       {% if site.resume_section_links %}
+      <!-- begin Books -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>3 books</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for book in site.data.books %}
+            <li><a href={{ book.url }} itemprop="url">{{ book.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Books -->
       {% endif %}
 
       {% if site.resume_section_links %}
