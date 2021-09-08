@@ -11,8 +11,8 @@
 - skill: Python, Django
   description: Learning how to build robust backend of websites and applications, making use of Restful API.
 
-- skill: Versioning Control
-  description: Clear understanding of how Git works, ability to work on a same big project with other developers, handling pull requests, conflicts and deployment phase.
+- skill: Git Version Control
+  description: Clear understanding of how Git works, handling pull requests, conflicts and deployment phase.
 
 - skill: Communication
   description: Friendly communicator able to actively listen and share ideas with confidence and respect. Able to clearly communicate in a professional manner with clients and collegues of all levels. Have empathy for other people's feelings and emotions.
